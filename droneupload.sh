@@ -9,4 +9,3 @@ do
   echo "date: " "$date"
   scp -r -p "$f" homenas:/var/services/homes/nate/Photos/Drone/"$date"
 done
-#foo
